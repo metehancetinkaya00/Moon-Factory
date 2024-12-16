@@ -1,0 +1,11 @@
+Model Information:
+* title:	Oil derrick XYZ
+* source:	https://sketchfab.com/3d-models/oil-derrick-xyz-a98fc092d9fc480c8da57032f03eb916
+* author:	Sandokan (https://sketchfab.com/sandokan68)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Oil derrick XYZ" (https://sketchfab.com/3d-models/oil-derrick-xyz-a98fc092d9fc480c8da57032f03eb916) by Sandokan (https://sketchfab.com/sandokan68) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

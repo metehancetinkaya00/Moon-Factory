@@ -1,0 +1,5 @@
+/Users/metehan/moony/.utmp/RelWithDebInfo/3339z643/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/metehan/moony/.utmp/RelWithDebInfo/3339z643/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/metehan/moony/.utmp/RelWithDebInfo/3339z643/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/metehan/moony/.utmp/RelWithDebInfo/3339z643/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/metehan/moony/.utmp/RelWithDebInfo/3339z643/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

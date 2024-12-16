@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rusty barrel
+* source:	https://sketchfab.com/3d-models/rusty-barrel-ddac18b03ef54886ac3390026b026eb2
+* author:	Freaky Crab (https://sketchfab.com/FreakyCrab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rusty barrel" (https://sketchfab.com/3d-models/rusty-barrel-ddac18b03ef54886ac3390026b026eb2) by Freaky Crab (https://sketchfab.com/FreakyCrab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	robot factory
+* source:	https://sketchfab.com/3d-models/robot-factory-8fed7a1031b648489ef76da993a086c8
+* author:	mourad ✨ (https://sketchfab.com/mouradouchen11)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "robot factory" (https://sketchfab.com/3d-models/robot-factory-8fed7a1031b648489ef76da993a086c8) by mourad ✨ (https://sketchfab.com/mouradouchen11) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

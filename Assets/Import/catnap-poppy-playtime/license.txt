@@ -1,0 +1,11 @@
+Model Information:
+* title:	catnap-poppy-playtime
+* source:	https://sketchfab.com/3d-models/catnap-poppy-playtime-2fa8661919234825b8209995a4b69ca5
+* author:	Catnap <3 (https://sketchfab.com/loverzplush)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "catnap-poppy-playtime" (https://sketchfab.com/3d-models/catnap-poppy-playtime-2fa8661919234825b8209995a4b69ca5) by Catnap <3 (https://sketchfab.com/loverzplush) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

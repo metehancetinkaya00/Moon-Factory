@@ -1,0 +1,11 @@
+Model Information:
+* title:	pickBox
+* source:	https://sketchfab.com/3d-models/pickbox-426877b5b6b849cfbe36a2926664b582
+* author:	supershu (https://sketchfab.com/supershu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "pickBox" (https://sketchfab.com/3d-models/pickbox-426877b5b6b849cfbe36a2926664b582) by supershu (https://sketchfab.com/supershu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

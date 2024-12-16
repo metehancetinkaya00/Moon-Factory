@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bricks Low Poly
+* source:	https://sketchfab.com/3d-models/bricks-low-poly-5a33d7afbf30476797e4cb833c2c2845
+* author:	MTI (https://sketchfab.com/mticreativity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bricks Low Poly" (https://sketchfab.com/3d-models/bricks-low-poly-5a33d7afbf30476797e4cb833c2c2845) by MTI (https://sketchfab.com/mticreativity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
